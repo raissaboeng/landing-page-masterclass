@@ -1,6 +1,3 @@
-# landing-page-masterclass
-Landing Page
-
 <h1 align="center">Landing Page Masterclass</h1> 
 
 <img src=".github/masterclass.gif">
